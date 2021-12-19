@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "\"backend with frontend\"",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/john20303/Backend-MEAN-Angular-nodeJS.git"
+  },
+  "author": "John Garzon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/john20303/Backend-MEAN-Angular-nodeJS/issues"
+  },
+  "homepage": "https://github.com/john20303/Backend-MEAN-Angular-nodeJS#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
